@@ -1,0 +1,21 @@
+*{
+    transition: all  0.01s ease;
+}
+body{
+    background-color: rgb(211, 205, 205);
+}
+.ball{
+position: absolute;
+border-radius: 50%;
+height: 50px;
+width: 50px;
+background-color: rgb(89, 43, 43);
+}
+input,button{
+    font-size: 25px;
+}
+.food{
+    position: fixed;
+    height: 30px;
+    width: 30px;
+}
